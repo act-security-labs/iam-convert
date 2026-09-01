@@ -1,6 +1,6 @@
 # iam-convert: Convert JSON Policy Documents to Infrastructure as Code
 
-[![NPM Version](https://img.shields.io/npm/v/@cloud-copilot/iam-convert.svg?logo=nodedotjs)](https://www.npmjs.com/package/@cloud-copilot/iam-convert) [![License: AGPL v3](https://img.shields.io/github/license/cloud-copilot/iam-convert)](LICENSE.txt) [![GuardDog](https://github.com/cloud-copilot/iam-convert/actions/workflows/guarddog.yml/badge.svg)](https://github.com/cloud-copilot/iam-convert/actions/workflows/guarddog.yml) [![Known Vulnerabilities](https://snyk.io/test/github/cloud-copilot/iam-convert/badge.svg?targetFile=package.json&style=flat-square)](https://snyk.io/test/github/cloud-copilot/iam-convert?targetFile=package.json)
+[![NPM Version](https://img.shields.io/npm/v/@actsecurity/iam-convert.svg?logo=nodedotjs)](https://www.npmjs.com/package/@actsecurity/iam-convert) [![License: AGPL v3](https://img.shields.io/github/license/act-security-labs/iam-convert)](LICENSE.txt) [![GuardDog](https://github.com/act-security-labs/iam-convert/actions/workflows/guarddog.yml/badge.svg)](https://github.com/act-security-labs/iam-convert/actions/workflows/guarddog.yml) [![Known Vulnerabilities](https://snyk.io/test/github/act-security-labs/iam-convert/badge.svg?targetFile=package.json&style=flat-square)](https://snyk.io/test/github/act-security-labs/iam-convert?targetFile=package.json)
 
 CLI and Node Library to convert JSON IAM Policy Documents to other formats for Infrastructure as Code.
 
@@ -19,10 +19,10 @@ CLI and Node Library to convert JSON IAM Policy Documents to other formats for I
 
 ```bash
 # Install the CLI
-npm install -g @cloud-copilot/iam-convert
+npm install -g @actsecurity/iam-convert
 
 ## Install the Node Library
-npm install @cloud-copilot/iam-convert
+npm install @actsecurity/iam-convert
 ```
 
 ## CLI Usage
@@ -41,7 +41,7 @@ iam-convert --help
 ## Typescript/Javascript Usage
 
 ```typescript
-import { convert } from '@cloud-copilot/iam-convert'
+import { convert } from '@actsecurity/iam-convert'
 import { loadPolicy } from '@actsecurity/iam-policy'
 
 const policy = {
