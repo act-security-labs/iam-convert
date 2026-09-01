@@ -1,4 +1,4 @@
-import { type Policy } from '@cloud-copilot/iam-policy'
+import { type Policy } from '@actsecurity/iam-policy'
 import { StringBuffer } from '../util/StringBuffer.js'
 import { type Converter } from './converter.js'
 

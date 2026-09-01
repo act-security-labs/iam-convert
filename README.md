@@ -42,7 +42,7 @@ iam-convert --help
 
 ```typescript
 import { convert } from '@cloud-copilot/iam-convert'
-import { loadPolicy } from '@cloud-copilot/iam-policy'
+import { loadPolicy } from '@actsecurity/iam-policy'
 
 const policy = {
   Version: '2012-10-17',

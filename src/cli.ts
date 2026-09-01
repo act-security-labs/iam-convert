@@ -6,8 +6,8 @@ import {
   parseCliArguments,
   readStdin,
   stringArgument
-} from '@cloud-copilot/cli'
-import { loadPolicy, validatePolicySyntax } from '@cloud-copilot/iam-policy'
+} from '@actsecurity/cli'
+import { loadPolicy, validatePolicySyntax } from '@actsecurity/iam-policy'
 import { existsSync, readFileSync } from 'fs'
 import { convert } from './convert.js'
 import { tryParseJson } from './util/json.js'
