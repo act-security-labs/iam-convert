@@ -4,7 +4,7 @@ import {
   type Policy,
   type Principal,
   type Resource
-} from '@cloud-copilot/iam-policy'
+} from '@actsecurity/iam-policy'
 import { StringBuffer } from '../util/StringBuffer.js'
 import { type Converter } from './converter.js'
 
