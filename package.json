@@ -1,6 +1,6 @@
 {
   "name": "@actsecurity/iam-convert",
-  "version": "0.1.88",
+  "version": "0.1.89",
   "description": "Convert AWS IAM JSON policies to other formats",
   "repository": {
     "type": "git",
