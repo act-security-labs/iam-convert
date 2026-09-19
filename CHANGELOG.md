@@ -1,3 +1,10 @@
+## [0.1.90](https://github.com/act-security-labs/iam-convert/compare/v0.1.89...v0.1.90) (2026-09-19)
+
+
+### Bug Fixes
+
+* use updated dependency updater action ([a6b9733](https://github.com/act-security-labs/iam-convert/commit/a6b973303395319c45692685c28e895091a00f57))
+
 ## [0.1.89](https://github.com/act-security-labs/iam-convert/compare/v0.1.88...v0.1.89) (2026-09-01)
 
 ## [0.1.88](https://github.com/act-security-labs/iam-convert/compare/v0.1.87...v0.1.88) (2026-09-01)
