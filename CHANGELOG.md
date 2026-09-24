@@ -1,3 +1,10 @@
+## [0.1.92](https://github.com/act-security-labs/iam-convert/compare/v0.1.91...v0.1.92) (2026-09-24)
+
+
+### Bug Fixes
+
+* run PR checks safely for fork contributions ([8503d07](https://github.com/act-security-labs/iam-convert/commit/8503d07da397762b3e3046730fd9c6cec0c5f1f5))
+
 ## [0.1.91](https://github.com/act-security-labs/iam-convert/compare/v0.1.90...v0.1.91) (2026-09-19)
 
 ## [0.1.90](https://github.com/act-security-labs/iam-convert/compare/v0.1.89...v0.1.90) (2026-09-19)
