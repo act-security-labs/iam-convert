@@ -1,3 +1,11 @@
+## [0.1.102](https://github.com/act-security-labs/iam-convert/compare/v0.1.101...v0.1.102) (2026-11-09)
+
+
+### Bug Fixes
+
+* pin retry-enabled dependency update action ([00dcecb](https://github.com/act-security-labs/iam-convert/commit/00dcecbad8c5ab8e95bf14f044c35fe81f5fd4b1))
+* stagger dependency update schedule ([286ef2c](https://github.com/act-security-labs/iam-convert/commit/286ef2c4e7fd1dbe01218564dcd1d0cd12b7ee31))
+
 ## [0.1.101](https://github.com/act-security-labs/iam-convert/compare/v0.1.100...v0.1.101) (2026-11-07)
 
 ## [0.1.100](https://github.com/act-security-labs/iam-convert/compare/v0.1.99...v0.1.100) (2026-10-31)
